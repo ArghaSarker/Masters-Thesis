@@ -29,4 +29,4 @@ et al., 2022.
 
 
 
-[![Read Thesis](https://img.shields.io/badge/PDF-Read%20Thesis-red?style=for-the-badge&logo=adobeacrobatreader)](AI-based%20Reconstruction%20and%20Denoising%20for%20Robust%20Structured%20Illumination%20Microscopy%20at%20Low%20Signal-to-Noise%20Ratios.pdf)
+[![Read Thesis](https://img.shields.io/badge/PDF-Read%20Thesis-red?style=for-the-badge&logo=adobeacrobatreader)](AI-based-Reconstruction-and-Denoising-for-Robust-Structured-Illumination-Microscopy-at-Low-Signal-to-Noise-Ratios.pdf)
